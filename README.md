@@ -1,0 +1,1 @@
+For this project, I was required to generate two models: one using neural networks and another using non-neural network algorithms. I combined both models into a single notebook, which is saved in the scripts folder.
